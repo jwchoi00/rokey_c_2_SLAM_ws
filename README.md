@@ -57,11 +57,16 @@
 #문제점
 문제1. 로봇의 사이즈를 고려하지 않고 A_star 경로 탐색을 사용하여 로봇이 벽이 부딪치는 현상이 발생
 -> inflatation_radius를 주어 경로 생성시 로봇이 벽에 충돌하지 않도록 경로를 생성
+
 ![image](https://github.com/user-attachments/assets/1a6c027c-8c9b-4835-b7f6-ac3a3dca4384)
+
 ![image](https://github.com/user-attachments/assets/a213ad25-6e3e-400e-b43d-6682b4abb331)
+
 문제2. inflation_radius를 너무 크게 줄 때 좁은 벽에서 경로 생성이 안되 로봇이 경로를 잃어버리는 현상이 발생
 코드 개선 -> 중복되지 않는 좌표를 지속적으로 저장하고, 로봇이 지나간 좌표는 제거하는 방식으로 개선 시도(미구현)
+
 ![image](https://github.com/user-attachments/assets/ac7a9719-877e-46f9-afae-0c3c4c96fade)
+
 문제 3. 현재 좌표와 이동 목표 좌표를 직선 거리와 theta를 계산하여 로봇의 이동 거리와 진행 방향을 설정
 ->로봇 진행 방향 속도가 생각보다 빨라서 회전 반경이 충분하지 않아 벽에 충돌
 개선 -> 로봇의 진행 방향 속도를 강제로 낮추어 회전 반경을 축소시켜 벽과의 충돌이 감소
