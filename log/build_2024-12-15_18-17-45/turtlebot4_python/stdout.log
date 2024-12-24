@@ -1,0 +1,24 @@
+running develop
+running egg_info
+writing turtlebot4_python.egg-info/PKG-INFO
+writing dependency_links to turtlebot4_python.egg-info/dependency_links.txt
+writing entry points to turtlebot4_python.egg-info/entry_points.txt
+writing requirements to turtlebot4_python.egg-info/requires.txt
+writing top-level names to turtlebot4_python.egg-info/top_level.txt
+reading manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4-python.egg-link (link to .)
+Installing turtlebot4_explorer script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_explorer_ver2 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_explorer_ver3 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_explorer_ver4 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_map_astar script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_map_astar_ver2 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_map_astar_ver4 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_map_save script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_python script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+Installing turtlebot4_wall_follow script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+
+Installed /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python
+running symlink_data

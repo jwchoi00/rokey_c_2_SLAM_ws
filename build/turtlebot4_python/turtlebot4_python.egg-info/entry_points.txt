@@ -1,0 +1,14 @@
+[console_scripts]
+turtlebot4_explorer = turtlebot4_python.turtlebot4_explorer:main
+turtlebot4_explorer_ver2 = turtlebot4_python.turtlebot4_explorer_ver2:main
+turtlebot4_explorer_ver3 = turtlebot4_python.turtlebot4_explorer_ver3:main
+turtlebot4_explorer_ver4 = turtlebot4_python.turtlebot4_explorer_ver4:main
+turtlebot4_go_to_goal = turtlebot4_python.turtlebot4_go_to_goal:main
+turtlebot4_go_to_goal_ver2 = turtlebot4_python.turtlebot4_go_to_goal_ver2:main
+turtlebot4_map_astar = turtlebot4_python.turtlebot4_map_astar:main
+turtlebot4_map_astar_ver2 = turtlebot4_python.turtlebot4_map_astar_ver2:main
+turtlebot4_map_astar_ver4 = turtlebot4_python.turtlebot4_map_astar_ver4:main
+turtlebot4_map_save = turtlebot4_python.turtlebot4_map_save:main
+turtlebot4_python = turtlebot4_python.turtlebot4_python:main
+turtlebot4_wall_follow = turtlebot4_python.turtlebot4_wall_follow:main
+

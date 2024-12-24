@@ -1,0 +1,27 @@
+[0.490s] Invoking command in '/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python': PYTHONPATH=/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/build --no-deps symlink_data
+[0.695s] running develop
+[0.853s] running egg_info
+[0.853s] writing turtlebot4_python.egg-info/PKG-INFO
+[0.853s] writing dependency_links to turtlebot4_python.egg-info/dependency_links.txt
+[0.854s] writing entry points to turtlebot4_python.egg-info/entry_points.txt
+[0.854s] writing requirements to turtlebot4_python.egg-info/requires.txt
+[0.854s] writing top-level names to turtlebot4_python.egg-info/top_level.txt
+[0.855s] reading manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+[0.855s] writing manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+[0.856s] running build_ext
+[0.856s] Creating /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4-python.egg-link (link to .)
+[0.857s] Installing turtlebot4_explorer script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_explorer_ver2 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_explorer_ver3 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_explorer_ver4 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_go_to_goal script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_map_astar script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_map_astar_ver2 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_map_astar_ver4 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.857s] Installing turtlebot4_map_save script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.858s] Installing turtlebot4_python script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.858s] Installing turtlebot4_wall_follow script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.858s] 
+[0.858s] Installed /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python
+[0.858s] running symlink_data
+[0.889s] Invoked command in '/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python' returned '0': PYTHONPATH=/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/build --no-deps symlink_data

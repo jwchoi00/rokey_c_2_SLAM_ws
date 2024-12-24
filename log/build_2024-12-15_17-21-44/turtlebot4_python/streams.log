@@ -1,0 +1,33 @@
+[0.435s] Invoking command in '/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python': PYTHONPATH=/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/build --no-deps symlink_data
+[0.615s] running develop
+[0.756s] running egg_info
+[0.756s] creating turtlebot4_python.egg-info
+[0.756s] writing turtlebot4_python.egg-info/PKG-INFO
+[0.756s] writing dependency_links to turtlebot4_python.egg-info/dependency_links.txt
+[0.756s] writing entry points to turtlebot4_python.egg-info/entry_points.txt
+[0.756s] writing requirements to turtlebot4_python.egg-info/requires.txt
+[0.757s] writing top-level names to turtlebot4_python.egg-info/top_level.txt
+[0.757s] writing manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+[0.758s] reading manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+[0.758s] writing manifest file 'turtlebot4_python.egg-info/SOURCES.txt'
+[0.759s] running build_ext
+[0.759s] Creating /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages/turtlebot4-python.egg-link (link to .)
+[0.759s] Installing turtlebot4_explorer script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.759s] Installing turtlebot4_explorer_ver2 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_explorer_ver3 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_explorer_ver4 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_map_astar script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_map_astar_ver2 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_map_astar_ver4 script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_map_save script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_python script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] Installing turtlebot4_wall_follow script to /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/turtlebot4_python
+[0.760s] 
+[0.760s] Installed /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python
+[0.760s] running symlink_data
+[0.760s] creating /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/share/ament_index
+[0.760s] creating /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/share/ament_index/resource_index
+[0.761s] creating /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/share/ament_index/resource_index/packages
+[0.761s] symbolically linking /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/resource/turtlebot4_python -> /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/share/ament_index/resource_index/packages
+[0.761s] symbolically linking /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/package.xml -> /home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/share/turtlebot4_python
+[0.781s] Invoked command in '/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python' returned '0': PYTHONPATH=/home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/g1/rokey_c_2_SLAM_ws/install/turtlebot4_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/g1/rokey_c_2_SLAM_ws/build/turtlebot4_python/build --no-deps symlink_data
